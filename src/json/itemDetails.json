@@ -28,49 +28,49 @@
       "_id": "asd1293uasdads1",
       "qty": "3",
       "name": "bedroom",
-      "imageUrl": "/images/icon-bedroom.svg"
+      "imageUrl": "/images/ic_bedroom.png"
     },
     {
       "_id": "asd1293uasdads1",
       "qty": "1",
-      "name": "living room",
-      "imageUrl": "/images/icon-livingroom.svg"
+      "name": "Air Conditioner",
+      "imageUrl": "/images/ic_ac.png"
     },
     {
       "_id": "asd1293uasdads1",
       "qty": "2",
       "name": "bath room",
-      "imageUrl": "/images/icon-bathroom.svg"
+      "imageUrl": "/images/ic_bathroom.png"
     },
     {
       "_id": "asd1293uasdads1",
       "qty": "1",
       "name": "dining room",
-      "imageUrl": "/images/icon-diningroom.svg"
+      "imageUrl": "/images/ic_diningRoom.png"
     },
     {
       "_id": "asd1293uasdads1",
       "qty": "10",
       "name": "mbps",
-      "imageUrl": "/images/icon-wifi.svg"
+      "imageUrl": "/images/ic_wifi.png"
     },
     {
       "_id": "asd1293uasdads1",
       "qty": "2",
       "name": "units ready",
-      "imageUrl": "/images/icon-airconditioner.svg"
+      "imageUrl": "/images/ic_lamp.png"
     },
     {
       "_id": "asd1293uasdads1",
       "qty": "2",
       "name": "refrigerator",
-      "imageUrl": "/images/icon-refrigerator.svg"
+      "imageUrl": "/images/ic_kulkas.png"
     },
     {
       "_id": "asd1293uasdads1",
       "qty": "1",
       "name": "television",
-      "imageUrl": "/images/icon-tv.svg"
+      "imageUrl": "/images/ic_tv.png"
     }
   ],
   "activities": [
@@ -102,11 +102,11 @@
   "categories": [
     {
       "_id": "asd1293uasdads1",
-      "name": "House with beauty backyard",
+      "name": "Treasure to choose",
       "items": [
         {
           "_id": "asd1293uasdads1",
-          "name": "PSW Antasari",
+          "name": "Kawai Beach",
           "imageUrl": "/images/treasure-1.jpg",
           "country": "South Korea",
           "city": "Seoul Flore",
@@ -114,7 +114,7 @@
         },
         {
           "_id": "asd1293uasdads1",
-          "name": "Kuretakeso",
+          "name": "My Banana",
           "imageUrl": "/images/treasure-2.jpg",
           "country": "South Korea",
           "city": "Seoul Flore",
@@ -122,7 +122,7 @@
         },
         {
           "_id": "asd1293uasdads1",
-          "name": "Arya Duta",
+          "name": "Sunset",
           "imageUrl": "/images/treasure-3.jpg",
           "country": "South Korea",
           "city": "Seoul Flore",
@@ -130,7 +130,7 @@
         },
         {
           "_id": "asd1293uasdads1",
-          "name": "Grand Dhika",
+          "name": "Rafting",
           "imageUrl": "/images/treasure-4.jpg",
           "country": "South Korea",
           "city": "Seoul Flore",
@@ -141,11 +141,11 @@
   ],
   "testimonial": {
     "_id": "asd1293uasdads1",
-    "imageUrl": "/images/testimonial-detailspage.jpg",
-    "name": "Happy Family",
+    "imageUrl": "/images/testimonial-landingpages.jpg",
+    "name": "Happy Couple",
     "rate": 4.25,
-    "content": "What a great trip with my family and I should try again and again next time soon...",
-    "familyName": "Angga",
-    "familyOccupation": "UI Designer"
+    "content": "What a great trip for couple and i should go for another trip next time.",
+    "familyName": "Jonas & Kelly",
+    "familyOccupation": "Architecture"
   }
 }

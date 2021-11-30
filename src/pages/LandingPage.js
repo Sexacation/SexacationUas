@@ -13,8 +13,12 @@ export default class LandingPage_ extends Component {
   constructor(props) {
     super(props);
     this.refMostPicked = React.createRef();
-  }
+  } 
 
+  componentDidMount() {
+    document.title = "Housecation | Home";
+    window.scrollTo(0, 0);
+  }
   render() {
     return (
       <>
